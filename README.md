@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Will Buckingham @waywardphilosopher
-- 👀 This is just a set of repositories for a bunch of small web projects that I am running using Jekyll / Hugo
+- 👀 This is just a set of repositories for a bunch of small web projects that I am running using Hugo
 - 🌱 I’m currently learning the intricacies of GitHub. It's pretty new, so I'm still finding my feet.
 - 💞️ I’m a writer, mainly, so these projects are mainly to support my various writing projects.
 - 📫 How to reach me: you can find me over at willbuckingham.com, or else on twitter as @willbuckingham
